@@ -1,0 +1,7 @@
+1) Na bash (terminal) sobre a pasta, informar ao Git meus dados para identificar os commits:
+	git config --global user.name "geraldotakashikodaira"
+	git config --global user.email "geraldotakashikodaira@yahoo.com.br"
+
+2) Inicializar repositório Git na pasta com bash:
+	git init
+	
